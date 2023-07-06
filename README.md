@@ -12,8 +12,8 @@ I am a computer science undergraduate student at the University of Piraeus. @uni
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vasloui&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasloui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+[//]: ### ✍️ Random Dev Quote
+[//]: ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vasloui&limit=5&theme=dark&combine_all_yearly_contributions=true)
