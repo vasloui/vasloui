@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-I am a computer science undergraduate student at the University of Piraeus. @unipi
+I am a computer science undergraduate student.
 
 
 ## 🌐 Socials:
